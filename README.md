@@ -1,4 +1,4 @@
-# project_kuliah_1
+# Project_Kuliah_1
 
 Ini Adalah Project Flutter untuk perkuliahan Pemograman Bergerak dan ini adalah salah satu tugas pertama yang diberikan yang berisikan tentang Project Flutter yang terdiri dari foto serta text saja .
 Nama : Chris Febrianto SB
